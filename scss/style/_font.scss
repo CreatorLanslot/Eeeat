@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/* Font
+ --------------------------------------------------*/
+
+
+@font-face {
+	font-family: 'BlackKnightFLF';
+	src: url('../fonts/BlackKnightFLF.eot');
+	src: url('../fonts/BlackKnightFLF.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/BlackKnightFLF.woff') format('woff'),
+	url('../fonts/BlackKnightFLF.ttf') format('truetype'),
+	url('../fonts/BlackKnightFLF.svg#Blade') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
